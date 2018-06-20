@@ -2,9 +2,14 @@
 
 ## TRUECHAIN: HIGHLY PERFORMANT DECENTRALIZED PUBLIC LEDGER FIRST DRAFT
 ## WORK IN PROGRESS
+![avatar](https://github.com/truechain/wiki/blob/master/img/architecture.jpg)
+
+## RoadMap
+* English RoadMap [Roadmap.md](https://github.com/truechain/wiki/blob/master/roadmap-en/roadmap.md) 
+* Chinese RoadMap [Roadmap.md](https://github.com/truechain/wiki/blob/master/roadmap-cn/roadmap.md) 
 
 ## docs
-* English wiki: [@Archit](https://github.com/truechain/wiki/blob/master/docs/index.rst)
+* English wiki: [@Archit](https://github.com/truechain/wiki/blob/master/docs-en/index.rst)
 * Chinese wiki: [@happyfromtbq](https://github.com/truechain/wiki/blob/master/docs-cn/index.rst)
 
 ## discussion 
